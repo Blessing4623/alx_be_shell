@@ -1,2 +1,2 @@
 #!/bin/bash
-root 
+cat /etc/passwd | grep -i betty
