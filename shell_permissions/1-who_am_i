@@ -1,2 +1,2 @@
 #!/bin/bash
-root@ubuntu:/tmp/h$ whoami
+whoami
